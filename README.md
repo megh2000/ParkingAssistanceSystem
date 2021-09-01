@@ -7,5 +7,5 @@ Automatic car parking obtain information about available parking space, process 
 
 ## Simulation Results
 
-![simulation1](circuit.jpg?raw=true "Simulation ")
+![simulation1](circuit.jpg? "Simulation ")
 circuit.jpg
