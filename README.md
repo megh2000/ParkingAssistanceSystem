@@ -6,6 +6,7 @@ Parking Assistance Systems provides a confusion free and easy parking by helping
 Automatic car parking obtain information about available parking space, process it and then place the car at certain position. It is inevitable for the people to update with the growing technology and generally people are facing problems on parking vehicles in parking slot in a city.
 
 ## Simulation Results
+<!--![simulation1](circuit.jpg? "Simulation ") -->
 
-![simulation1](circuit.jpg? "Simulation ")
+<img src="circuit.jpg" width="75%">
 
