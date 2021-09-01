@@ -7,4 +7,4 @@ Automatic car parking obtain information about available parking space, process 
 
 ## Simulation
 
-![simulation1](ParkingAssistanceSystem/circuit.jpeg?raw=true "Simulation ")
+![simulation1](ParkingAssistanceSystem/circuit.jpg?raw=true "Simulation ")
